@@ -29,7 +29,7 @@ I'm open to new challenges and opportunities to grow—let's connect!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,css,html,js,kotlin,mysql,postman,py,react,wordpress" />
+    <img src="https://skillicons.dev/icons?i=astro,css,html,js,kotlin,mysql,postman,py,react,wordpress,discord,postgres" />
   </a>
 </p>
 
