@@ -2,7 +2,7 @@
 <!--  --> 
 <br>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+end+Programmer+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=++Front+end+Programmer+" alt="Typing SVG" /></a>
 </p>
 
 
@@ -10,7 +10,7 @@
 
 
 # :computer: About Me:
-Hi! I'm Sebastian, a 20-year-old JavaScript developer from Lima, Peru. I'm currently studying at Cibertec, where I'm expanding my skills in the world of web development.
+Hi! I'm Sebastian, a 21 year old JavaScript developer from Lima, Peru. I'm currently studying at Cibertec, where I'm expanding my skills in the world of web development.
 Since I started programming, I discovered my passion for creating interactive and functional digital experiences. I specialize in JavaScript and continuously improve my knowledge to build dynamic and efficient applications.
 I'm looking for opportunities to collaborate on projects that challenge me and allow me to keep learning. I enjoy teamwork, sharing ideas, and solving problems with creativity and logic.
 If you're looking for someone eager to learn, improve, and bring value to your team, feel free to reach out! I'm ready for new challenges and to keep growing as a developer.
