@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , soy Sebastian Bismarck </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I´m Sebastian Bismarck </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  --> 
 <br>
 <p align="center">
@@ -10,7 +10,10 @@
 
 
 # :computer: About Me:
-¡Hola! Soy Sebastian, un apasionado programador front-end de 20 años de Lima, Perú. Actualmente, estoy en mi camino académico en Cibertec, donde estoy adquiriendo las habilidades y conocimientos necesarios para sobresalir en el mundo del desarrollo web.<br><br>Mi interés por la programación comenzó desde joven, y a lo largo de mi viaje, he descubierto mi verdadera pasión: crear experiencias digitales atractivas y funcionales. Me encanta trabajar con HTML, CSS y JavaScript, y siempre estoy en busca de nuevos lenguajes y tecnologías para ampliar mis horizontes.<br><br>Estoy decidido a participar en proyectos que no solo me desafíen, sino que también me permitan colaborar con otros desarrolladores talentosos. Cada proyecto es una oportunidad para aprender y crecer, y estoy entusiasmado por contribuir con mi creatividad y habilidades técnicas.<br><br>Si buscas a alguien con una mentalidad curiosa, dispuesto a aprender y a aportar valor a tu equipo, no dudes en contactarme. Estoy listo para asumir nuevos retos y hacer que las ideas cobren vida.<br><br>¡Gracias por visitar mi perfil!
+Hi! I'm Sebastian, a 20-year-old JavaScript developer from Lima, Peru. I'm currently studying at Cibertec, where I'm expanding my skills in the world of web development.
+Since I started programming, I discovered my passion for creating interactive and functional digital experiences. I specialize in JavaScript and continuously improve my knowledge to build dynamic and efficient applications.
+I'm looking for opportunities to collaborate on projects that challenge me and allow me to keep learning. I enjoy teamwork, sharing ideas, and solving problems with creativity and logic.
+If you're looking for someone eager to learn, improve, and bring value to your team, feel free to reach out! I'm ready for new challenges and to keep growing as a developer.
 
 
 ## 🌐 Socials :
