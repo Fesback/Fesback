@@ -16,9 +16,9 @@ I'm open to new challenges and opportunities to grow—let's connect!
 
 
 ## 🌐 Socials :
-<a href="https://www.linkedin.com/in/sebastian-bismarck-917875286/"><img src="https://img.shields.io/badge/-Sebastian_Bismarck-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.instagram.com/fesback_/"><img src="https://img.shields.io/badge/-Sebastian_Bismarck-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:bismarck21300@gmail.com"><img src="https://img.shields.io/badge/-bismarck21300@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/sebastian-bismarck-917875286/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+<a href="https://www.instagram.com/fesback_/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
+<a href="mailto:bismarck21300@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
 
 <br>
 
